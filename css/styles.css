@@ -154,7 +154,7 @@ button {
 .hero {
     background-color: #2e2f42;
     color: #ffffff;
-    padding: 188px 0;
+    padding: 120px 0;
 }
 
 .hero-title {
@@ -166,6 +166,7 @@ button {
     color: #FFFFFF;
     max-width: 496px;
     margin: auto;
+    margin-bottom: 8px;
 }
 
 .hero-btn {
@@ -197,6 +198,7 @@ button {
 
 .services {
     padding: 120px;
+    margin-bottom: 8px;
 }
 
 .services-main {
@@ -215,6 +217,7 @@ button {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+    margin-bottom: 8px;
 }
 
 .services-title {
@@ -249,7 +252,7 @@ button {
 
 .team {
     background-color: #f4f4fd;
-    padding: 120px 0;
+    padding: 120px 0 120px 0;
 }
 
 .team-style-main {
