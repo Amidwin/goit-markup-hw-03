@@ -298,6 +298,7 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .team-title-item-prof {
@@ -315,6 +316,7 @@ img {
 
 .portfolio {
     padding: 120px;
+    padding: 120px 0 120px 0;
 }
 
 .portfolio-style {
@@ -337,6 +339,7 @@ img {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .portfolio-wrap-main-title {
