@@ -100,7 +100,6 @@ button {
     text-transform: uppercase;
     color: #4d5ae5;
     display: inline-block;
-    margin-bottom: 16px;
 }
 
 .header-logo {
@@ -189,7 +188,6 @@ button {
     max-width: 496px;
     margin: auto;
     margin-bottom: 8px;
-    padding: 120px 0;
 }
 
 .hero-btn {
